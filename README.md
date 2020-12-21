@@ -7,6 +7,9 @@
 How to run the app:
 <br/>command: "npm start"
 
+<br/> URL to hit the API in Postman:
+<br/> http://localhost:3001/tracker/getGeoCoordinates
+
 <br/> Input parameters:
 <br/> Ex: 
 <br/> {
